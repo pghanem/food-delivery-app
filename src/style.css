@@ -1,0 +1,68 @@
+p {
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    font-size:100%;
+    font-family: verdana;
+}
+
+h1 {
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    font-size:150%;
+    font-family: verdana;
+}
+
+
+.foodCard {
+    position: relative;
+    margin-top: 10px;
+}
+
+.price {
+    position: absolute;
+    right:19px;
+    top:16px;
+    color:green;
+}
+
+.rating {
+    position: absolute;
+    right:19px;
+    bottom:14px;
+    color:gold;
+}
+
+.food-check {
+    position: absolute;
+    right:19px;
+    bottom:14px;
+}
+
+.review {
+    
+}
+
+.foodID {
+    position: absolute;
+    right:19px;
+    bottom:14px;
+    color:red;
+}
+
+.menu {
+    position: relative;
+    padding: 50px 20px;
+
+}
+
+.btn-order {
+    position: absolute;
+    right: 20px;
+    bottom: 0px;
+}
